@@ -1,0 +1,2 @@
+# ps-lab-cve-2022-0847
+Resources required for building Pluralsight CVE-2022-0847 lab
